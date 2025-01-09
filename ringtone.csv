@@ -1,0 +1,5 @@
+frequency,tempo,note_type
+261.63,120,quaver
+393,120,crotchet
+0,300,semiquaver
+393,120,minim
